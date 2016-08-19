@@ -43,7 +43,7 @@ var quotes = [
  {
  	quote: "That's been one of my mantras - focus and simplicity. Simple can be harder than complex; you have to work hard to get your thinking clean to make it simple.",
  	source: "Steve Jobs",
- 	year: 2002,
+ 	year: 2002, //Some of these data are purely made up
  	tags: ['inspirational', 'programming', 'simple']
  },
  {
@@ -51,13 +51,13 @@ var quotes = [
  	source: "A bizarre meme I just saw", 
  	citation: "Facebook News Feed", 
  	year: 2016, 
- 	tags: ['wut', 'dank']
+ 	tags: ['wut', 'dank', 'sauce']
  },
  {
  	quote: "I think if you do something and it turns out pretty good, then you should go do something else wonderful, not dwell on it for too long. Just figure out what's next.", 
  	source: "Steve Jobs", 
  	citation: "'Jobs: Iconoclast and salesman' by Brian Williams, at MSNBSC", 
- 	year: 2006,
+ 	year: 2006
  }
 ];
 
